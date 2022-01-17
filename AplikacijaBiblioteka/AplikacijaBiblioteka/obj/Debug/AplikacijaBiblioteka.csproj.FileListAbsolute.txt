@@ -1,0 +1,16 @@
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\bin\Debug\AplikacijaBiblioteka.exe.config
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\bin\Debug\AplikacijaBiblioteka.exe
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\bin\Debug\AplikacijaBiblioteka.pdb
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.Pocetna.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.StanjeKnjiga.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.StanjeKnjigaSkladište.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.Form1.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.PosudbaKnjige.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.Properties.Resources.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.UpisKnjiga.resources
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.exe
+C:\Users\ucenik\Desktop\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.pdb
